@@ -30,11 +30,11 @@ Los datos fueron obtenidos mediante la biblioteca yfinance a partir de Yahoo Fin
 
 Ticker utilizado: ^GSPC
 
-Periodo analizado: 2021-06-09 a 2026-06-08
+Periodo analizado: 2021-06-09 a 2026-06-09
 
 ## Resultados principales
 
-* 1255 observaciones analizadas.
+* 1256 observaciones analizadas.
 * Rendimiento diario promedio: 0.0501%.
 * Volatilidad diaria (desviación estándar): 1.07%.
 * Mejor día observado: 2025-04-09 (+9.52%).
@@ -47,13 +47,18 @@ Se identificó un episodio de volatilidad extrema durante abril de 2025 asociado
 ```text
 sp500-exploratory-analysis/
 │
-├── data/
 ├── notebooks/
 │   └── analisis_indice.ipynb
 │
 ├── README.md
 └── .gitignore
 ```
+
+## Cómo ejecutar el proyecto
+1. Clonar el repositorio.
+2. Crear un entorno virtual.
+3. Instalar dependencias.
+4. Abrir el notebook.
 
 ## Autor
 
