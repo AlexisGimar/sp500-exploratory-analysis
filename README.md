@@ -1,4 +1,4 @@
-# Práctica 0: Análisis Exploratorio del S&P 500
+# Exploratory Analysis of the S&P 500
 
 ## Descripción
 
@@ -44,7 +44,8 @@ Se identificó un episodio de volatilidad extrema durante abril de 2025 asociado
 
 ## Estructura del proyecto
 
-Practica-0-Analisis-Indice/
+```text
+sp500-exploratory-analysis/
 │
 ├── data/
 ├── notebooks/
@@ -52,6 +53,7 @@ Practica-0-Analisis-Indice/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Autor
 
